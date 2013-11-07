@@ -1,0 +1,4 @@
+*.swp
+*.lock
+.sass-cache
+glyph/glyphicons.css
