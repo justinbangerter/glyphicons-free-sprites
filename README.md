@@ -14,7 +14,7 @@ and use preview/glyphicons.css (you might want to rename the folder, though)
 ###Classes
 
 * icon: identifies the element as an icon
-* <image-name>: selects the image that should be displayed (ex: address-book)
+* &lt;image-name>: selects the image that should be displayed (ex: address-book)
 * alt: indicates usage of alternate color
 * hinvert: flips the child icons' colors when this class is hovered over (can be used on icons, too)
 
