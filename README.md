@@ -1,7 +1,9 @@
 glyphicons-free-sprites
 =======================
 
-A spritemap and css classes for the free version of GLYPHICONS
+A spritemap and css classes for the free version of [GLYPHICONS](http://glyphicons.com/), which
+is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), so you need to 
+make a link to [GLYPHICONS](http://glyphicons.com/) on the footer of your site if you use this.
 
 Generated with [this project](https://github.com/justinbangerter/glyphicons-sprite-generator)
 
