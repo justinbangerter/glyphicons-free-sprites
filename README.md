@@ -15,17 +15,16 @@ and use preview/glyphicons.css (you might want to rename the folder, though)
 
 ###Classes
 
-* icon: identifies the element as an icon
-* &lt;image-name>: selects the image that should be displayed (ex: address-book)
+* icon-&lt;image-name>: selects the icon that should be displayed (ex: address-book)
 * alt: indicates usage of alternate color
 * hinvert: flips the child icons' colors when this class is hovered over (can be used on icons, too)
 
 ####Examples
-&lt;i class="icon address-book" >&lt;/i>      An address book icon
+&lt;i class="icon-address-book" >&lt;/i>      An address book icon
 
-&lt;i class="icon alt address-book" >&lt;/i>  A white address book icon
+&lt;i class="alt icon-address-book" >&lt;/i>  A white address book icon
 
-&lt;a class="hinvert">&lt;i class="icon address-book" >&lt;/i>&lt;/a>
+&lt;a class="hinvert">&lt;i class="icon-address-book" >&lt;/i>&lt;/a>
 An address book icon that inverts color when the parent is hovered over.
 
 Using a Subset of Icons
