@@ -32,7 +32,7 @@ Using a Subset of Icons
 
 By default, all glyphs are commented out from glyph/glyphicons.scss.
 
-You may open index.html in a browser to preview the icons to help you pick the ones you like.
+You may open preview/glyphicons.html in a browser to preview the icons to help you pick the ones you like.
 
 To enable an icon, uncomment it from glyph/glyphicons.scss and run watch.sh.
 
