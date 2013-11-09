@@ -10,8 +10,11 @@ Generated with [this project](https://github.com/justinbangerter/glyphicons-spri
 General Use
 -----------
 
-If you don't mind the huge stylesheet, you can drop the preview folder into your project
-and use preview/glyphicons.css (you might want to rename the folder, though)
+If you don't mind the huge stylesheet, you can drop the glyph folder into your project
+and use glyph/glyphicons.css (you might want to rename the folder, though).
+
+If you want a smaller stylesheet, you can comment out entries from glyphicons.scss 
+and run watch.sh.
 
 ###Classes
 
@@ -30,10 +33,8 @@ An address book icon that inverts color when the parent is hovered over.
 Using a Subset of Icons
 -----------------------
 
-By default, all glyphs are commented out from glyph/glyphicons.scss.
+You may open glyph/glyphicons.html in a browser to preview the icons.
 
-You may open preview/glyphicons.html in a browser to preview the icons to help you pick the ones you like.
+To disable an icon, comment it out of glyph/glyphicons.scss and run watch.sh.
 
-To enable an icon, uncomment it from glyph/glyphicons.scss and run watch.sh.
-
-Once compiled, you can drop the glyph folder into your project and include glyph.css
+Once compiled, you can drop the glyph folder into your project and include glyphicons.css
